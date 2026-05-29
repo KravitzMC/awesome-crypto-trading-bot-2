@@ -126,29 +126,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 💻 [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 
-## 🏹 DEX Swap Integrations
-
-* [Jupiter](https://jup.ag/swap)
-* [Titan](https://titan.exchange)
-* [Carbium](https://app.carbium.io/)
-* [Raydium](https://raydium.io/swap/)
-* [PumpSwap](https://swap.pump.fun/)
-
-## 🎲 DEX Analytics & Trading Platforms (Very High Risk)
-
-* [AXIOM](https://axiom.trade/)
-* [AVE.AI](https://ave.ai/)
-* [Bullx](https://neo.bullx.io/)
-* [BirdEye](https://birdeye.so)
-* [Pump.Fun](https://pump.fun/)
-* [DexScreener](https://dexscreener.com/)
-* [DexTools](https://www.dextools.io)
-* [MevX](https://mevx.io/)
-* [Padre Terminal](https://trade.padre.gg/)
-* [Trojan](https://trojan.com/)
-* [PhotonSOL](https://photon-sol.tinyastro.io)
-* [XXYY.IO](https://www.xxyy.io/)
-
 ## 🔰 Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
@@ -221,7 +198,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
 * [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
-
   
 ## 🧽 Miscellaneous tools
 
@@ -231,6 +207,29 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
+
+## 🏹 DEX Swap Integrations
+
+* [Jupiter](https://jup.ag/swap)
+* [Titan](https://titan.exchange)
+* [Carbium](https://app.carbium.io/)
+* [Raydium](https://raydium.io/swap/)
+* [PumpSwap](https://swap.pump.fun/)
+
+## 🎲 DEX Analytics & Trading Platforms (Very High Risk)
+
+* [AXIOM](https://axiom.trade/)
+* [AVE.AI](https://ave.ai/)
+* [Bullx](https://neo.bullx.io/)
+* [BirdEye](https://birdeye.so)
+* [Pump.Fun](https://pump.fun/)
+* [DexScreener](https://dexscreener.com/)
+* [DexTools](https://www.dextools.io)
+* [MevX](https://mevx.io/)
+* [Padre Terminal](https://trade.padre.gg/)
+* [Trojan](https://trojan.com/)
+* [PhotonSOL](https://photon-sol.tinyastro.io)
+* [XXYY.IO](https://www.xxyy.io/)
   
 ## 🛄 Payment gateway providers
 
