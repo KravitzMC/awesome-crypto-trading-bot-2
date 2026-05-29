@@ -1,13 +1,13 @@
 <img src="https://github.com/KravitzMC/awesome-crypto-trading-bots/blob/main/botlogo1.png" width="200" height="200" align="right">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
-# Awesome Crypto Trading Bots 2 </br>  (Remastered)
+# Awesome Crypto Trading Bots 2 </br>
 
-<h3><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage. :warning:</p></h3>
+<h4><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage. :warning:</p></h4>
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc.
 
-(Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots) )
+(This Repository Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots) )
 
 ## Disclaimer Announcement
 
