@@ -32,6 +32,9 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Charting libraries](#-charting-libraries)
 * [Crypto Visa & MasterCard](#-crypto-visa--mastercard)
 * [Blockchain SDK](#-blockchain-sdk)
+* [Miscellaneous Tools](#-miscellaneous-tools)
+* [DEX Swap Integrations](#-dex-swap-integrations)
+* [DEX Trading Platforms](#-dex-analytics--trading-platforms-very-high-risk)
 * [Community](#-community)
 
 ## Open source bots
