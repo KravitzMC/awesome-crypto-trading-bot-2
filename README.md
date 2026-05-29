@@ -3,11 +3,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
 # Awesome Crypto Trading Bots 2 </br>
 
-<h4><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage. :warning:</p></h4>
-
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc.
 
 (This Repository Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots) )
+
+<h4><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage. :warning:</p></h4>
 
 ## Disclaimer Announcement
 
