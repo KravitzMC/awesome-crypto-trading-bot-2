@@ -38,19 +38,9 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
 
-💻 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
-
 💻 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
 
 💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
-
-💻 [Triangular Arbitrage detectors](https://github.com/Drakkar-Software/Triangular-Arbitrage) - triangular arbitrage opportunities detector on Binance, Hyperliquid and 15+ exchanges
-
-💻 [Polymarket + Kalshi Arbitrage Bot](https://github.com/ImMike/polymarket-arbitrage) - Cross-platform arbitrage detection between Polymarket and Kalshi.
-
-💻 [Polymarket Arbitrage Trading Bot](https://github.com/sysnexus1/polymarket-arbitrage-bot) - Trading bot for Polymarket's "Up or Down" crypto markets..
-
-💻 [XXYY.IO Skill](https://github.com/Jimmy-Holiday/xxyy-trade-skill) - Trade tokens on Solana, Ethereum, BSC, and Base chains via XXYY
 
 💻 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
@@ -67,6 +57,14 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 💻 [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
 
 💻 [Quibera](https://quibera.com/ref/kirqnj) - Copy Professional Traders, AI Trade, Smart investment.
+
+💻 [Triangular Arbitrage detectors](https://github.com/Drakkar-Software/Triangular-Arbitrage) - triangular arbitrage opportunities detector on Binance, Hyperliquid and 15+ exchanges
+
+💻 [Polymarket + Kalshi Arbitrage Bot](https://github.com/ImMike/polymarket-arbitrage) - Cross-platform arbitrage detection between Polymarket and Kalshi.
+
+💻 [Polymarket Arbitrage Trading Bot](https://github.com/sysnexus1/polymarket-arbitrage-bot) - Trading bot for Polymarket's "Up or Down" crypto markets..
+
+💻 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
 
 💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
 
