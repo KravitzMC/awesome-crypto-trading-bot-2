@@ -1,4 +1,4 @@
-<img src="https://github.com/KravitzMC/awesome-crypto-trading-bots/blob/main/botlogo1.png" width="200" height="200" align="right">
+<img src="https://github.com/KravitzMC/awesome-crypto-trading-bot-2/blob/main/botlogo1.png" width="200" height="200" align="right">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
 # Awesome Crypto Trading Bots 2 </br>
