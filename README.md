@@ -249,12 +249,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Alchemy Pay](https://alchemypay.org/)
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 
-##  💳 Global Payment (Support countries)
-</br>
-* [Jupiter Global](https://landing.global.jup.ag/)
-* [Bitget Wallet](https://web3.bitget.com/th)
-* [QRSol](https://qrsol.xyz) - Scan any Thai PromptPay or merchant QR code, pay with Solana
-
 ## 🦄 Community
 
 * [CallBotCrypto](https://callbotcrypto.com/) -  A group of PhD students have joined their knowledges to develop predictive algorithms. 
