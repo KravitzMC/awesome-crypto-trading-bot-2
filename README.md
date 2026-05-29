@@ -36,11 +36,11 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## Open source bots
 
+💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
+
 💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
 
 💻 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
-
-💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
 
 💻 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
