@@ -219,20 +219,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Raydium](https://raydium.io/swap/)
 * [PumpSwap](https://swap.pump.fun/)
 
-## 🎲 DEX Analytics & Trading Platforms (Very High Risk)
-
-* [AXIOM](https://axiom.trade/)
-* [AVE.AI](https://ave.ai/)
-* [Bullx](https://neo.bullx.io/)
-* [BirdEye](https://birdeye.so)
-* [Pump.Fun](https://pump.fun/)
-* [DexScreener](https://dexscreener.com/)
-* [DexTools](https://www.dextools.io)
-* [MevX](https://mevx.io/)
-* [Padre Terminal](https://trade.padre.gg/)
-* [Trojan](https://trojan.com/)
-* [PhotonSOL](https://photon-sol.tinyastro.io)
-* [XXYY.IO](https://www.xxyy.io/)
   
 ## 🛄 Payment gateway providers
 
