@@ -255,7 +255,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 
 ##  💳 Global Payment (Support countries)
-Update Thai QR Promptay and another in April 2026
 </br>
 * [Jupiter Global](https://landing.global.jup.ag/)
 * [Bitget Wallet](https://web3.bitget.com/th)
