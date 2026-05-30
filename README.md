@@ -177,7 +177,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## 🌫️ API and data providers
 
-* [PumpFun API](https://pumpportal.fun/trading-api/setup) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
+* [PumpFun API](https://pumpapi.io) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
