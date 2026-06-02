@@ -177,8 +177,8 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## 🌫️ API and data providers
 
+* [PumpPapi-Swap](https://pumpapi.io) - Fast swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
-* [PumpPapi-Swap](https://pumpapi.io) - An alternative Fast swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
