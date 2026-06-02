@@ -221,6 +221,8 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## 🎲 Decentralized Exchange (DEX) Tracker
 
+Very hight risk with scam
+
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
 * [Bullx](https://neo.bullx.io/)
