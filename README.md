@@ -221,7 +221,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## 🎲 Decentralized Exchange (DEX) Tracker
 
-Very hight risk with scam
+Note : Many memecoin 90% are very dangerous from Rug-Pull coin scammer and drain all money please use at your own risk.
 
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
