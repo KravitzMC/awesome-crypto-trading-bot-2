@@ -250,6 +250,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
+* [Bitget card](https://web3.bitget.com/th/card)
 * [Cypher card ](https://cypherhq.io/)
 * [Alchemy Pay](https://alchemypay.org/)
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
