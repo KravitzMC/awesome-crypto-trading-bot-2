@@ -177,8 +177,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## 🌫️ API and data providers
 
-* [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
-* [PumpPapi-Swap](https://pumpapi.io) - alternative swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
@@ -188,7 +186,9 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
-
+* [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
+* [PumpPapi-Swap](https://pumpapi.io) - alternative swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
+  
 ## 📈 Charting libraries
 
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
