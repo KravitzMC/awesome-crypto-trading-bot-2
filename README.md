@@ -255,6 +255,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [Bitget card](https://web3.bitget.com/th/card)
 * [Cypher card ](https://cypherhq.io/)
+* [Cryto.com card](https://crypto.com/en/cards)
 * [Alchemy Pay](https://alchemypay.org/)
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 
