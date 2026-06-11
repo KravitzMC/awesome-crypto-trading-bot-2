@@ -222,7 +222,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🎲 Decentralized Exchange (DEX) Tracker
 
 > [!WARNING]
-> Many memecoin 98% on DEX  are very dangerous from Rug-Pull scammed and drain all your money from million to zero don't long hold over 20 minutes or less than please use at your own risk with only little money. 
+> Many memecoin 98% on DEX  are very dangerous from Rug-Pull scammed and drain all your money from million to zero don't long hold over 5 minutes or less than please use at your own risk with only little money. 
 
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
