@@ -11,12 +11,11 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## Disclaimer Announcement
 
+> [!CAUTION]
 > No warranties, express or implied, are provided with this script. This script is supplied “as is” without any guarantee of accuracy or reliability. The author makes no representation that the script is error-free or defect-free. No warranty is given regarding fitness for any particular purpose.
 > Use of this script is entirely at the user’s own risk. Users are strongly advised to review and test the script carefully before use. The author shall not be held liable for any damage or loss incurred. This includes, but is not limited to, direct, indirect, incidental, or consequential damages. Loss of data, financial loss, or system failure are solely the user’s responsibility.
 > The author assumes no responsibility for misuse or unintended results. By using this script, the user agrees to accept all associated risks. Proceed with caution and use professional judgment at all times.
-
 > Cryptocurrency markets, especially meme coins and low-liquidity tokens, are highly speculative and subject to extreme volatility. Users should be aware that scammers may create fraudulent tokens, fake liquidity, honeypots, or rug pull schemes designed to steal funds from traders.
-
 > The author does not verify, endorse, or guarantee the legitimacy of any token, smart contract, liquidity pool, or trading opportunity accessed through this script. Users must conduct their own research (DYOR) and perform independent security checks before engaging in any transaction.
 > The author shall not be responsible for any losses resulting from scams, exploits, malicious contracts, market manipulation, front-running, sandwich attacks, or rug pull events. Users are strongly encouraged to verify contract addresses, review token permissions, analyze liquidity conditions, and use extreme caution when trading newly launched or unverified tokens.
 
@@ -222,7 +221,8 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ## 🎲 Decentralized Exchange (DEX) Tracker
 
-⚠️ Many memecoin 98% on DEX  are very dangerous from Rug-Pull scammed and drain all your money from million to zero don't long hold over 20 minutes or less than please use at your own risk with only little money. 
+> [!WARNING]
+> Many memecoin 98% on DEX  are very dangerous from Rug-Pull scammed and drain all your money from million to zero don't long hold over 20 minutes or less than please use at your own risk with only little money. 
 
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
