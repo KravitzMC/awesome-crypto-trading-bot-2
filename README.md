@@ -239,6 +239,16 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [PhotonSOL](https://photon-sol.tinyastro.io)
 * [XXYY.IO](https://www.xxyy.io/)
 
+## RPC Servers
+
+* [Helius](https://www.helius.dev)
+* [QuickNode](https://www.quicknode.com/)
+* [Chainstack](https://chainstack.com/)
+* [dRPC](https://drpc.org/) - Low price
+* [Solana Public Node](https://api.mainnet-beta.solana.com)
+* [Triton One](https://triton.one/)
+* [GetBlock](https://getblock.io/)
+* [Ankr](https://www.ankr.com/rpc/)
   
 ## 🛄 Payment gateway providers
 
