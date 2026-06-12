@@ -225,6 +225,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > [!WARNING]
 > Many memecoin 99% on DEX  are very dangerous from Rug-Pull scammed and drain all your money from million to zero don't long hold over 5 minutes or less than please use at your own risk with only little money. 
 
+* [Trojan](https://trojan.com/)
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
 * [Bullx](https://neo.bullx.io/)
@@ -235,7 +236,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [GeckoTerminal](https://www.geckoterminal.com/)
 * [MevX](https://mevx.io/)
 * [Padre Terminal](https://trade.padre.gg/)
-* [Trojan](https://trojan.com/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
 * [GMGN.AI](https://gmgn.ai) - (only for monitor don't use TG)
 * [XXYY.IO](https://www.xxyy.io/)
