@@ -237,7 +237,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Padre Terminal](https://trade.padre.gg/)
 * [Trojan](https://trojan.com/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
-* [GMGN.AI](https://gmgn.ai) - (Recommended only for monitor)
+* [GMGN.AI](https://gmgn.ai) - (only for monitor don't use TG)
 * [XXYY.IO](https://www.xxyy.io/)
 
   
