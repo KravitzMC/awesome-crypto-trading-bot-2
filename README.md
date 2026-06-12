@@ -206,6 +206,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
   
 ## 🧽 Miscellaneous tools
 
+* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
 * [financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation) - Analyze financial data correlations fast and easily
