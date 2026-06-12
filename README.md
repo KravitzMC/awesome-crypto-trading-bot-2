@@ -250,6 +250,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Triton One](https://triton.one/)
 * [GetBlock](https://getblock.io/)
 * [Ankr](https://www.ankr.com/rpc/)
+* [Zan](https://zan.top/)
   
 ## 🛄 Payment gateway providers
 
