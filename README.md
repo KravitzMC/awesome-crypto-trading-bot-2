@@ -34,6 +34,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Miscellaneous Tools](#-miscellaneous-tools)
 * [DEX Swap Integrations](#-dex-swap-integrations)
 * [Decentralized Exchange (Dex) Tracker](#-decentralized-exchange-dex-tracker)
+* [RPC Servers](#rpc-servers)
 * [Community](#-community)
 
 ## Open source bots
