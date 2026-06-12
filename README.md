@@ -257,7 +257,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Bitget card](https://web3.bitget.com/th/card)
 * [Cypher card ](https://cypherhq.io/)
 * [Cryto.com card](https://crypto.com/en/cards)
-* [Alchemy Pay](https://alchemypay.org/)
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 
 ## 🦄 Community
