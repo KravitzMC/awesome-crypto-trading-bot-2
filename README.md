@@ -237,7 +237,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [MevX](https://mevx.io/)
 * [Padre Terminal](https://trade.padre.gg/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
-* [GMGN.AI](https://gmgn.ai) - (only for monitor)
 * [XXYY.IO](https://www.xxyy.io/)
 
   
