@@ -227,13 +227,13 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > [!WARNING]
 > Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls and scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 5 minutes, use only a small amount of money <= 10$ , and never let greed blind your judgment.
 
-* [DexScreener](https://dexscreener.com/)
 * [Trojan](https://trojan.com/)
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
 * [Bullx](https://neo.bullx.io/)
 * [BirdEye](https://birdeye.so)
 * [Pump.Fun](https://pump.fun/)
+* [DexScreener](https://dexscreener.com/)
 * [DexTools](https://www.dextools.io)
 * [GeckoTerminal](https://www.geckoterminal.com/)
 * [MevX](https://mevx.io/)
