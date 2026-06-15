@@ -229,6 +229,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls and scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 5 minutes, use only a small amount of money <= 10$ , and never let greed blind your judgment.
 
 * [Trojan](https://trojan.com/)
+* [Shotgun.fun](https://shotgun.fun/)
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
 * [Bullx](https://neo.bullx.io/)
