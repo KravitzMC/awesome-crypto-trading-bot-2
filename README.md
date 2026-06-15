@@ -247,13 +247,13 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Helius](https://www.helius.dev)
 * [QuickNode](https://www.quicknode.com/)
 * [Chainstack](https://chainstack.com/)
+* [Zan](https://zan.top/) - (looking good)
 * [dRPC](https://drpc.org/) - (low price)
 * [Solana Public Node](https://api.mainnet-beta.solana.com) - (free use)
 * [Triton One](https://triton.one/)
 * [Tatum](https://tatum.io/)
 * [GetBlock](https://getblock.io/)
 * [Ankr](https://www.ankr.com/rpc/)
-* [Zan](https://zan.top/)
   
 ## 🛄 Payment gateway providers
 
