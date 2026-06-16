@@ -241,7 +241,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [MevX](https://mevx.io/)
 * [Padre Terminal](https://trade.padre.gg/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
-* [Sharpe Terminal](https://www.sharpe.ai/) -
+* [Sharpe Terminal](https://www.sharpe.ai/)
 * [XXYY.IO](https://www.xxyy.io/)
 
 ## RPC Servers
