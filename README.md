@@ -187,7 +187,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
-* [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
+* [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box. 
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
   
 ## 📈 Charting libraries
@@ -241,6 +241,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [MevX](https://mevx.io/)
 * [Padre Terminal](https://trade.padre.gg/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
+* [Sharpe Terminal](https://www.sharpe.ai/) -
 * [XXYY.IO](https://www.xxyy.io/)
 
 ## RPC Servers
