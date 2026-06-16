@@ -218,6 +218,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🏹 DEX Swap Integrations
 
 * [Jupiter](https://jup.ag/swap)
+* [Meteora](https://app.meteora.ag)
 * [Titan](https://titan.exchange)
 * [Carbium](https://app.carbium.io/)
 * [Raydium](https://raydium.io/swap/)
