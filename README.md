@@ -24,7 +24,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 * [Open source bots](#open-source-bots)
 * [Technical analysis libraries](#-technical-analysis-libraries)
-* [Machine Learning](#-machine-learning)
+* [AI/LLM](#-aillm)
 * [Market data libraries](#-market-data-libraries)
 * [API and data providers](#-api-and-data-providers)
 * [Payment gateway providers](#-payment-gateway-providers)
