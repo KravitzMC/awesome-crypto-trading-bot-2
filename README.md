@@ -276,6 +276,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [Bitget card](https://web3.bitget.com/th/card)
 * [ByBit card](https://www.bybit.com/en/cards/)
+* [OKX card](https://www.okx.com/pay)
 * [Cypher card ](https://cypherhq.io/)
 * [Cryto.com card](https://crypto.com/en/cards)
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
