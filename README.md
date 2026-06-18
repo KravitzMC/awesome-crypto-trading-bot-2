@@ -146,9 +146,10 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
 
 
-## 🎯 Machine Learning
+## 🎯 AI/LLM
 
-* [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - ⭐ an open-source platform for quantitative trading empowered by reinforcement learning. 
+* [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - ⭐ an open-source platform for quantitative trading empowered by reinforcement learning.
+* [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 * [Prophet_Predictions](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto.
