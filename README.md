@@ -209,7 +209,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 * [Bitquery](https://bitquery.io) - Query everything On-Chian though GraphQL schema.or stream the same data over WebSocket, Kafka and Solana gRPC.
 * [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
-* [AllBotFather](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - Example all about repositories derive and parse the On-chain data.
+* [AL THE BOT FATHER](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - Example all about repositories derive and parse the On-chain data.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
 * [financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation) - Analyze financial data correlations fast and easily
