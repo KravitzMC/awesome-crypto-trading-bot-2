@@ -69,8 +69,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
 
-💻 [AI Gold Scalper](https://github.com/clayandthepotter/ai-gold-scalper) - Enterprise-grade AI Gold Trading System.
-
 💻 [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
 
 💻 [Blankly](https://github.com/KravitzMC/blankly) - Trade stocks, cryptos, and forex across exchanges w/ one package.
