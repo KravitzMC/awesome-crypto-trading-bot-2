@@ -247,7 +247,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## RPC Servers
 
-* [Helius](https://www.helius.dev)
+* [Helius](https://www.helius.dev) - (recommend)
 * [QuickNode](https://www.quicknode.com/)
 * [Chainstack](https://chainstack.com/)
 * [Zan](https://zan.top/) - (looking good)
