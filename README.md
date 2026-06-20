@@ -45,6 +45,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 💻 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
 
+
 ## 👨‍💻 Open source bots
 
 💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
