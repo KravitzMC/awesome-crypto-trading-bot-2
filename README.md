@@ -57,8 +57,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 💻 [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
 
-💻 [Quibera](https://quibera.com/ref/kirqnj) - Copy Professional Traders, AI Trade, Smart investment.
-
 💻 [Triangular Arbitrage detectors](https://github.com/Drakkar-Software/Triangular-Arbitrage) - triangular arbitrage opportunities detector on Binance, Hyperliquid and 15+ exchanges
 
 💻 [Polymarket + Kalshi Arbitrage Bot](https://github.com/ImMike/polymarket-arbitrage) - Cross-platform arbitrage detection between Polymarket and Kalshi.
