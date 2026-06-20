@@ -23,7 +23,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🏠 Contents
 
 * [Closed source bots](#closed-source-bots)
-* [Open source bots](#open-source-bots)
+* [Open source bots](#%E2%80%8D-open-source-bots)
 * [Technical analysis libraries](#-technical-analysis-libraries)
 * [AI/LLM](#-aillm)
 * [Market data libraries](#-market-data-libraries)
