@@ -22,11 +22,12 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🏠 Contents
 
+* [Closed source bots](#closed-source-bots)
 * [Open source bots](#open-source-bots)
 * [Technical analysis libraries](#-technical-analysis-libraries)
 * [AI/LLM](#-aillm)
 * [Market data libraries](#-market-data-libraries)
-* [API and data providers](#-api-and-data-providers)
+* [API and data providers](#%EF%B8%8F-api-and-data-providers)
 * [Payment gateway providers](#-payment-gateway-providers)
 * [Charting libraries](#-charting-libraries)
 * [Crypto Visa & MasterCard](#-crypto-visa--mastercard)
@@ -37,13 +38,16 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [RPC Servers](#rpc-servers)
 * [Community](#-community)
 
-## Open source bots
 
-💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
+## Closed source bots
 
 💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
 
 💻 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
+
+## Open source bots
+
+💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
 
 💻 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
@@ -124,6 +128,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 💻 [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 
 💻 [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
+
+
 
 ## 🔰 Technical analysis libraries
 
