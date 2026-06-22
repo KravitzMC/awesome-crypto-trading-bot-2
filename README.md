@@ -244,6 +244,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Shotgun.fun](https://shotgun.fun/)
 * [DexScreener](https://dexscreener.com/)
 * [DexTools](https://www.dextools.io)
+* [DexView](https://dexview.com)
 * [GeckoTerminal](https://www.geckoterminal.com/)
 * [MevX](https://mevx.io/)
 * [Padre Terminal](https://trade.padre.gg/)
