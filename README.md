@@ -185,6 +185,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [PumpPapi-Swap](https://pumpapi.io) - Fast swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
 * [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
@@ -210,8 +211,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
   
 ## 🧽 Miscellaneous tools
 
-* [Bitquery](https://bitquery.io) - Query everything On-Chian though GraphQL schema.or stream the same data over WebSocket, Kafka and Solana gRPC.
-* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [AL THE BOT FATHER](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - ⭐ Example all about repositories derive and parse the On-chain data.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
