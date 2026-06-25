@@ -185,6 +185,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [DIA](https://www.diadata.org/) - Free API for crypto price any asset.  
 * [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
@@ -215,7 +216,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
-* [DIA](https://www.diadata.org/) - Free API for crypto price any asset.
 
 ## 🏹 DEX Swap Integrations
 
