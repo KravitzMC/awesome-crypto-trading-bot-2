@@ -277,7 +277,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 💳 Crypto Visa & MasterCard
 
-* [Bitget card (DEX)](https://web3.bitget.com/th/card)
+* [Bitget card (DEX)](https://web3.bitget.com/th/card)  - (recommend)
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [ByBit card](https://www.bybit.com/en/cards/)
