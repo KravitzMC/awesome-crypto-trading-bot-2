@@ -277,9 +277,9 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 💳 Crypto Visa & MasterCard
 
+* [Bitget card](https://web3.bitget.com/th/card)
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
-* [Bitget card](https://web3.bitget.com/th/card)
 * [ByBit card](https://www.bybit.com/en/cards/)
 * [OKX card](https://www.okx.com/pay)
 * [Cypher card ](https://cypherhq.io/)
