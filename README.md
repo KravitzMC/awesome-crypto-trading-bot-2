@@ -181,7 +181,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🌫️ API and data providers
 
-* [PumpPapi-Swap](https://pumpapi.io) - Fast swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
+* [PumpPapi-Swap](https://pumpapi.io) - ⭐ Fast swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
 * [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
