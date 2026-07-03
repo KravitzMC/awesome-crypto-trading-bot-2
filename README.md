@@ -286,7 +286,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [OKX card](https://www.okx.com/pay)
 * [Cypher card ](https://cypherhq.io/)
 * [Cryto.com card](https://crypto.com/en/cards)
-* [More...](https://github.com/mbtrilla/awesome-crypto-cards)
+* [More Repo...](https://github.com/mbtrilla/awesome-crypto-cards)
 
 ## 🦄 Community
 
