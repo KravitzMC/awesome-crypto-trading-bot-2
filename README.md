@@ -246,6 +246,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [DexView](https://dexview.com)
 * [GeckoTerminal](https://www.geckoterminal.com/)
 * [MevX](https://mevx.io/)
+* [NTM.AI](https://ntm.ai)
 * [Padre Terminal](https://trade.padre.gg/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
 * [TrenchIndex](https://trenchindex.fun/)
