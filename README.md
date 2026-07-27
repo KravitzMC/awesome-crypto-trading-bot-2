@@ -160,6 +160,12 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
 
 
+## 🧱 Blockchain SDK
+
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
+* [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
+
+
 ## 🔰 Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
@@ -203,11 +209,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
 * [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
 * [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
-
-## 🧱 Blockchain SDK
-
-* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
-* [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
   
 ## 🧽 Miscellaneous tools
 
