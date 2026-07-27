@@ -131,6 +131,34 @@ The author assumes no responsibility for misuse or unintended results. By using 
 💻 [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 
 
+## 🌫️ API and data providers
+
+* [PumpPapi-Swap](https://pumpapi.io) - ⭐ Fast swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
+* [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
+* [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
+* [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
+* [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
+* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
+* [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
+* [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
+* [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
+* [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
+* [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
+
+
+## 🎯 AI/LLM
+
+* [Pumpapi.AI](https://pumpapi.ai/) - ⭐ AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
+* [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) -  an open-source platform for quantitative trading empowered by reinforcement learning.
+* [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
+* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
+* [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+* [Prophet_Predictions](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto.
+* [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
+* [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices/blob/main/forecasting-btc-arima-xgboost-prophet-lstm.ipynb) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
+* [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
+
 
 ## 🔰 Technical analysis libraries
 
@@ -147,19 +175,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns.
 * [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
-
-
-## 🎯 AI/LLM
-
-* [Pumpapi.AI](https://pumpapi.ai/) - ⭐ AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
-* [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) -  an open-source platform for quantitative trading empowered by reinforcement learning.
-* [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
-* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
-* [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
-* [Prophet_Predictions](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto.
-* [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
-* [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices/blob/main/forecasting-btc-arima-xgboost-prophet-lstm.ipynb) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
-* [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
 
 
 ## 🚀 Market data libraries
@@ -179,21 +194,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 * [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
-
-## 🌫️ API and data providers
-
-* [PumpPapi-Swap](https://pumpapi.io) - ⭐ Fast swap API for pump.fun, Raydium, Meteora , PumpSwap, Raydium CPMM, Meteora DAMM V1, Meteora DAMM V2 and transfers.
-* [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
-* [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
-* [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
-* [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
-* [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
-* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
-* [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
-* [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
-* [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
-* [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
-* [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
   
 ## 📈 Charting libraries
 
