@@ -151,7 +151,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🎯 AI/LLM
 
 * [Pumpapi.AI](https://pumpapi.ai/) - ⭐ AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
-* [Sharpe.AI](https://www.sharpe.ai/) - AI-driven trading intelligence for crypto.
 * [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) -  an open-source platform for quantitative trading empowered by reinforcement learning.
 * [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
