@@ -160,6 +160,46 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
 
 
+## 🎲 Decentralized Exchange (DEX) Tracker
+
+> [!WARNING]
+> Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls, honeypot and other scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 3 minutes, use only a small amount of money <= 10$ , and never let greed blind your judgment.
+
+* [Trojan](https://trojan.com/)
+* [AVE.AI](https://ave.ai/)
+* [AXIOM](https://axiom.trade/)
+* [Bullx](https://neo.bullx.io/)
+* [BirdEye](https://birdeye.so)
+* [Pump.Fun](https://pump.fun/)
+* [Shotgun.fun](https://shotgun.fun/)
+* [DexScreener](https://dexscreener.com/)
+* [DexTools](https://www.dextools.io)
+* [DexView](https://dexview.com)
+* [GeckoTerminal](https://www.geckoterminal.com/)
+* [MevX](https://mevx.io/)
+* [NTM.AI](https://ntm.ai)
+* [Padre Terminal](https://trade.padre.gg/)
+* [PhotonSOL](https://photon-sol.tinyastro.io)
+* [TrenchIndex](https://trenchindex.fun/)
+* [XXYY.IO](https://www.xxyy.io/)
+
+## RPC Servers
+
+* [Helius](https://www.helius.dev) - (recommend)
+* [QuickNode](https://www.quicknode.com/)
+* [Chainstack](https://chainstack.com/)
+* [FluxRPC](https://fluxrpc.com/)
+* [Zan](https://zan.top/) - (looking good)
+* [dRPC](https://drpc.org/) 
+* [LeoRPC](https://leorpc.com) - (low price)
+* [Solana Public Node](https://api.mainnet-beta.solana.com) - (free use)
+* [OrbitFlare](https://orbitflare.com/)  
+* [Triton One](https://triton.one/)
+* [Tatum](https://tatum.io/)
+* [GetBlock](https://getblock.io/)
+* [Ankr](https://www.ankr.com/rpc/)
+
+
 ## 🧱 Blockchain SDK
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
@@ -220,7 +260,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
 * [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer !!
-  
+
+
 ## 🏹 DEX Swap Integrations
 
 * [Jupiter](https://jup.ag/swap)
@@ -231,44 +272,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Raydium](https://raydium.io/swap/)
 * [PumpSwap](https://swap.pump.fun/)
 
-## 🎲 Decentralized Exchange (DEX) Tracker
-
-> [!WARNING]
-> Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls, honeypot and other scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 3 minutes, use only a small amount of money <= 10$ , and never let greed blind your judgment.
-
-* [Trojan](https://trojan.com/)
-* [AVE.AI](https://ave.ai/)
-* [AXIOM](https://axiom.trade/)
-* [Bullx](https://neo.bullx.io/)
-* [BirdEye](https://birdeye.so)
-* [Pump.Fun](https://pump.fun/)
-* [Shotgun.fun](https://shotgun.fun/)
-* [DexScreener](https://dexscreener.com/)
-* [DexTools](https://www.dextools.io)
-* [DexView](https://dexview.com)
-* [GeckoTerminal](https://www.geckoterminal.com/)
-* [MevX](https://mevx.io/)
-* [NTM.AI](https://ntm.ai)
-* [Padre Terminal](https://trade.padre.gg/)
-* [PhotonSOL](https://photon-sol.tinyastro.io)
-* [TrenchIndex](https://trenchindex.fun/)
-* [XXYY.IO](https://www.xxyy.io/)
-
-## RPC Servers
-
-* [Helius](https://www.helius.dev) - (recommend)
-* [QuickNode](https://www.quicknode.com/)
-* [Chainstack](https://chainstack.com/)
-* [FluxRPC](https://fluxrpc.com/)
-* [Zan](https://zan.top/) - (looking good)
-* [dRPC](https://drpc.org/) 
-* [LeoRPC](https://leorpc.com) - (low price)
-* [Solana Public Node](https://api.mainnet-beta.solana.com) - (free use)
-* [OrbitFlare](https://orbitflare.com/)  
-* [Triton One](https://triton.one/)
-* [Tatum](https://tatum.io/)
-* [GetBlock](https://getblock.io/)
-* [Ankr](https://www.ankr.com/rpc/)
   
 ## 🛄 Payment gateway providers
 
