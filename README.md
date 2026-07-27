@@ -45,6 +45,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 💻 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
 
+💻 [CallBotCrypto](https://callbotcrypto.com/) -  A group of PhD students have joined their knowledges to develop predictive algorithms. 
 
 ## 👨‍💻 Open source bots
 
@@ -296,8 +297,3 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Cypher card ](https://cypherhq.io/)
 * [Cryto.com card](https://crypto.com/en/cards)
 * [More.......](https://github.com/mbtrilla/awesome-crypto-cards)
-
-## 🦄 Community
-
-* [CallBotCrypto](https://callbotcrypto.com/) -  A group of PhD students have joined their knowledges to develop predictive algorithms. 
-
