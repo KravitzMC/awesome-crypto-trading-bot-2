@@ -266,7 +266,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🏹 DEX Swap Integrations
 
 * [Jupiter](https://jup.ag/swap)
-* [Meteora](https://app.meteora.ag)
+* [Meteora](https://app.meteora.ag) -  Main place for RWAs, including tokenized stocks such as Tesla, Google, Nvidia etc...
 * [Orca](https://www.orca.so)
 * [Titan](https://titan.exchange)
 * [Carbium](https://app.carbium.io/)
