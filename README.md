@@ -289,7 +289,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Bitget card (DEX)](https://web3.bitget.com/th/card)  - (recommend)
 * [Plasma One card](https://www.plasma.org/personal) - Up to 4% Cashback 
 * [Bitunix card](https://www.bitunix.com/cards)
-* [MECX card](https://www.mexc.com/buy-crypto/mexc-card)
+* [MEXC card](https://www.mexc.com/buy-crypto/mexc-card)
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
