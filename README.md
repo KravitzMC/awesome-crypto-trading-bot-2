@@ -49,11 +49,11 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 👨‍💻 Open source bots
 
+💻 [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
+
 💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
 
 💻 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
-
-💻 [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
 
 💻 [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
 
