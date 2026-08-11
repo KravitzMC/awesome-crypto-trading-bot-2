@@ -171,6 +171,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [AXIOM](https://axiom.trade/)
 * [Bullx](https://neo.bullx.io/)
 * [BirdEye](https://birdeye.so)
+* [HyperLiquid](https://app.hyperliquid.xyz/)
 * [Pump.Fun](https://pump.fun/)
 * [Shotgun.fun](https://shotgun.fun/)
 * [DexScreener](https://dexscreener.com/)
@@ -261,17 +262,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
 * [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer !!
-
-
-## 🏹 DEX Swap Integrations
-
-* [Jupiter](https://jup.ag/swap)
-* [Meteora](https://app.meteora.ag) -  Main place for RWAs, including tokenized stocks such as Tesla, Google, Nvidia etc...
-* [Orca](https://www.orca.so)
-* [Titan](https://titan.exchange)
-* [Carbium](https://app.carbium.io/)
-* [Raydium](https://raydium.io/swap/)
-* [PumpSwap](https://swap.pump.fun/)
 
   
 ## 🛄 Payment gateway providers
