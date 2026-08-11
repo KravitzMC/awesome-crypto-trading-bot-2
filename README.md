@@ -139,6 +139,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [Dune](https://dune.com) 
 * [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
 * [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
