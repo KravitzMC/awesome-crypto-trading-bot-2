@@ -170,6 +170,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Trojan](https://trojan.com/)
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
+* [Azura](https://app.azura.xyz/)
 * [Bullx](https://neo.bullx.io/)
 * [BirdEye](https://birdeye.so)
 * [HyperLiquid](https://app.hyperliquid.xyz/)
