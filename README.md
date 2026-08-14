@@ -175,6 +175,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Azura](https://app.azura.xyz/)
 * [Bullx](https://neo.bullx.io/)
 * [BirdEye](https://birdeye.so)
+* [GMGN.AI](https://gmgn.ai/)
 * [HyperLiquid](https://app.hyperliquid.xyz/)
 * [Pump.Fun](https://pump.fun/)
 * [Shotgun.fun](https://shotgun.fun/)
