@@ -10,7 +10,8 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 ## Disclaimer Announcement
 
 <h4><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage.  :warning:</p></h4>
-<h4><p align="left">:warning: Financial loss is possible trading. Use risk management only 10-20% capital per trade. :warning:</p></h4>
+<h4><p align="left">:warning: Financial loss is possible trading. Use risk management only 10-20% capital per trade. :warning:</p></h4></br>
+
 
 > [!CAUTION]
 > No warranties, express or implied, are provided with this script. This script is supplied “as is” without any guarantee of accuracy or reliability. The author makes no representation that the script is error-free or defect-free. No warranty is given regarding fitness for any particular purpose.
