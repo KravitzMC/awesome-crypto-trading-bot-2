@@ -271,7 +271,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
   
 ## 🛄 Payment gateway providers
 
-Payment gateway for merchant.
+> [!TIP]
+> Connect payment gateway providers for your merchant.
 
 * [Cryptomus](https://cryptomus.com) - An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.
