@@ -7,7 +7,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 (This Repository Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots) )
 
- ## ☠️ Disclaimer Announcement
+ ## ☣️ Disclaimer Announcement
 
 <h4><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage.  :warning:</p></h4>
 <h4><p align="left">:warning: Financial loss is possible trading. Use risk management only 10-20% capital per trade. :warning:</p></h4></br>
