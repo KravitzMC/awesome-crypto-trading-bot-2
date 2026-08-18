@@ -193,11 +193,11 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## RPC Servers
 
 * [Helius](https://www.helius.dev) - (recommend)
-* [LeoRPC](https://leorpc.com/pricing) - ♾️ Free unlimited CU with 3 requests/second
+* [LeoRPC](https://leorpc.com/pricing) - Free unlimited CU with 3 requests/second
 * [QuickNode](https://www.quicknode.com/)
 * [Chainstack](https://chainstack.com/)
 * [FluxRPC](https://fluxrpc.com/)
-* [Zan](https://zan.top/) - (looking good)
+* [Zan](https://zan.top/) - (looking good for asia)
 * [dRPC](https://drpc.org/) 
 * [Solana Public Node](https://api.mainnet-beta.solana.com) - (free use)
 * [OrbitFlare](https://orbitflare.com/)  
