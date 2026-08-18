@@ -199,7 +199,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [FluxRPC](https://fluxrpc.com/)
 * [Zan](https://zan.top/) - (looking good for asia)
 * [dRPC](https://drpc.org/) 
-* [Solana Public Node](https://api.mainnet-beta.solana.com) - (free use)
+* [Solana Public Node](https://api.mainnet-beta.solana.com) - (free use but unstable)
 * [OrbitFlare](https://orbitflare.com/)  
 * [Triton One](https://triton.one/)
 * [Tatum](https://tatum.io/)
