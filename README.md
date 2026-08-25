@@ -65,12 +65,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 💻 [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
 
-💻 [Triangular Arbitrage detectors](https://github.com/Drakkar-Software/Triangular-Arbitrage) - triangular arbitrage opportunities detector on Binance, Hyperliquid and 15+ exchanges
-
-💻 [Polymarket + Kalshi Arbitrage Bot](https://github.com/ImMike/polymarket-arbitrage) - Cross-platform arbitrage detection between Polymarket and Kalshi.
-
-💻 [Polymarket Arbitrage Trading Bot](https://github.com/sysnexus1/polymarket-arbitrage-bot) - Trading bot for Polymarket's "Up or Down" crypto markets..
-
 💻 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
 
 💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
