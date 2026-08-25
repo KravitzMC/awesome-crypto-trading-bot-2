@@ -148,6 +148,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🎯 AI/LLM
 
 * [Pumpapi.AI](https://pumpapi.ai/) - ⭐ AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
+* [Pumps & Dump Predict](https://github.com/B0R0koko/pump-and-dump-prediction) - Mitigating Class Imbalance in Pump-and-Dump Detection.
 * [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) -  an open-source platform for quantitative trading empowered by reinforcement learning.
 * [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
@@ -156,7 +157,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
 * [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices/blob/main/forecasting-btc-arima-xgboost-prophet-lstm.ipynb) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
 * [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
-* [Pumps & Dump Predict](https://github.com/B0R0koko/pump-and-dump-prediction) - Mitigating Class Imbalance in Pump-and-Dump Detection.
 
 ## 🎲 Decentralized Exchange (DEX) Tracker
 
