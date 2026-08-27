@@ -163,6 +163,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > [!WARNING]
 > Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls, honeypot and other scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 3 minutes, use only a small amount of money 10-20% per trade , and never let greed blind your judgment.
 
+* [BubbleMaps](https://bubblemaps.io/)
 * [DexScreener](https://dexscreener.com/)
 * [DexTools](https://www.dextools.io)
 * [Trojan](https://trojan.com/)
