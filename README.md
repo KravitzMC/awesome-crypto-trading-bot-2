@@ -128,9 +128,9 @@ The author assumes no responsibility for misuse or unintended results. By using 
 💻 [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 
 
-## 🌫️ API and data providers
+## 🌏 API and data providers
 
-* [PumpPapi-Swap](https://pumpapi.io) - ⭐Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, Nvidia, and others) through one fast API.
+* [PumpPapi](https://pumpapi.io) - ⭐ Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, Nvidia, and others) through one fast API.
 * [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
@@ -145,7 +145,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 
 
-## 🎯 AI/LLM
+## 🧠 AI/LLM
 
 * [Pumpapi.AI](https://pumpapi.ai/) - ⭐ AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
 * [Pumps & Dump Predict](https://github.com/B0R0koko/pump-and-dump-prediction) - Mitigating Class Imbalance in Pump-and-Dump Detection.
@@ -185,9 +185,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [TrenchIndex](https://trenchindex.fun/)
 * [XXYY.IO](https://www.xxyy.io/)
 
-## RPC Servers
+## 📡 RPC Servers
 
-* [PumpPapi](https://pumpapi.io) - SuperB
 * [Helius](https://www.helius.dev) - (recommend)
 * [LeoRPC](https://leorpc.com/pricing) - Free unlimited CU with 3 requests/second
 * [QuickNode](https://www.quicknode.com/)
