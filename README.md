@@ -187,7 +187,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 📡 RPC Servers
 
-* [PumpPapi](https://pumpapi.io) - Ultrafast SuperB
 * [Helius](https://www.helius.dev) - (recommend)
 * [LeoRPC](https://leorpc.com/pricing) - Free unlimited CU with 3 requests/second
 * [QuickNode](https://www.quicknode.com/)
