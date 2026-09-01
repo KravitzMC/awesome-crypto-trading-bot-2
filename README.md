@@ -255,7 +255,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
   
 ## 🧽 Miscellaneous tools
 
-* [AL THE BOT FATHER](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - ⭐ Example all about repositories derive and parse the On-chain data.
+* [AL THE BOT FATHER](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - Example all about repositories derive and parse the On-chain data.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
 * [financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation) - Analyze financial data correlations fast and easily
@@ -270,7 +270,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > [!TIP]
 > Connect payment gateway providers for your merchant.
 
-* [Cryptomus](https://cryptomus.com) - An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
+* [Cryptomus](https://cryptomus.com) - ⭐ An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.
 * [Coingate](https://coingate.com/) - Secure crypto payment gateway for business.
 * [Nowpayments](https://nowpayments.io/) - Accept 300+ cryptocurrencies with low fees easily.
