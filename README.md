@@ -254,6 +254,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
   
 ## 🧽 Miscellaneous tools
 
+* [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer !!
 * [AL THE BOT FATHER](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - Example all about repositories derive and parse the On-chain data.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
@@ -261,8 +262,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
-* [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer !!
-
   
 ## 🛄 Payment gateway providers
 
