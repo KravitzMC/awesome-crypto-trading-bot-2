@@ -57,6 +57,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
 
+💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
+
 💻 [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
 
 💻 [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
@@ -66,8 +68,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 💻 [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
 
 💻 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
-
-💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
 
 💻 [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
 
