@@ -126,7 +126,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🌏 API and data providers
 
-* [PumpPapi](https://pumpapi.io) - ⭐ Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, AMZN ,Nvidia, and others) through one fast API.
+* [PumpPapi](https://pumpapi.io) - ⭐ Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, AMZN ,Nvidia, Walmart, and others) through one fast API.
 * [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [CryptoExchange.NET](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange API's.
@@ -140,7 +140,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
-
 
 ## 🧠 AI/LLM
 
