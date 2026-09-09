@@ -14,11 +14,11 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 > [!CAUTION]
 > No warranties, express or implied, are provided with this script. This script is supplied “as is” without any guarantee of accuracy or reliability. The author makes no representation that the script is error-free or defect-free. No warranty is given regarding fitness for any particular purpose.
 </br></br>
-> No Investment Advice: This script is provided for informational and educational purposes only.
-Nothing herein constitutes financial, investment, trading, or professional advice.
-The author does not recommend, solicit, or encourage any investment or trading activity.
-Users are solely responsible for their own decisions, risks, and potential losses.
-Always conduct your own research (DYOR) and seek professional advice when appropriate.
+>No Investment Advice: This script is provided for informational and educational purposes only.
+It does not constitute financial, investment, or trading advice.
+It is not intended to solicit, recommend, or encourage any investment activity.
+Users are solely responsible for complying with applicable laws and regulations in their jurisdiction.
+Use of this script is at your own risk and does not constitute an offer or solicitation to invest.
 </br></br>Use of this script is entirely at the user’s own risk. Users are strongly advised to review and test the script carefully before use. The author shall not be held liable for any damage or loss incurred. This includes, but is not limited to, direct, indirect, incidental, or consequential damages. Loss of data, financial loss, or system failure are solely the user’s responsibility.
 The author assumes no responsibility for misuse or unintended results. By using this script, the user agrees to accept all associated risks. Proceed with caution and use professional judgment at all times.
 </br></br>Cryptocurrency markets, especially meme coins and low-liquidity tokens, are highly speculative and subject to extreme volatility. Users should be aware that scammers may create fraudulent tokens, fake liquidity, honeypots, or rug pull schemes designed to steal funds from traders.
