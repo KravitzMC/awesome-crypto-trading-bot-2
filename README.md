@@ -18,7 +18,12 @@ The author assumes no responsibility for misuse or unintended results. By using 
 </br></br>Cryptocurrency markets, especially meme coins and low-liquidity tokens, are highly speculative and subject to extreme volatility. Users should be aware that scammers may create fraudulent tokens, fake liquidity, honeypots, or rug pull schemes designed to steal funds from traders.
 </br></br>The author does not verify, endorse, or guarantee the legitimacy of any token, smart contract, liquidity pool, or trading opportunity accessed through this script. Users must conduct their own research (DYOR) and perform independent security checks before engaging in any transaction.
 > The author shall not be responsible for any losses resulting from scams, exploits, malicious contracts, market manipulation, front-running, sandwich attacks, or rug pull events. Users are strongly encouraged to verify contract addresses, review token permissions, analyze liquidity conditions, and use extreme caution when trading newly launched or unverified tokens.
-
+</br></br>
+> No Investment Advice: This script is provided for informational and educational purposes only.
+Nothing herein constitutes financial, investment, trading, or professional advice.
+The author does not recommend, solicit, or encourage any investment or trading activity.
+Users are solely responsible for their own decisions, risks, and potential losses.
+Always conduct your own research (DYOR) and seek professional advice when appropriate.
 
 ## 🏠 Contents
 
