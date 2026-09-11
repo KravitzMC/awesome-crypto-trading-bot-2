@@ -3,9 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
 # Awesome Crypto Trading Bots 2 </br>
 
+(This Repository Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)) </br></br>
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc.
-
-(This Repository Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots) )
 
  ## ☣️ Disclaimer Announcement
 
