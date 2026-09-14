@@ -176,6 +176,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [GMGN.AI](https://gmgn.ai/)
 * [HyperLiquid](https://app.hyperliquid.xyz/)
 * [Pump.Fun](https://pump.fun/)
+* [Stonkfun](https://www.stonkfun.xyz/)
 * [Shotgun.fun](https://shotgun.fun/)
 * [GeckoTerminal](https://www.geckoterminal.com/)
 * [MevX](https://mevx.io/)
