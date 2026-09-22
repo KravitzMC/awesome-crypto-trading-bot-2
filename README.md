@@ -45,92 +45,91 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🔐 Closed source bots
 
-💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
+* [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
 
-💻 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
+* [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
 
 ## 👨‍💻 Open source bots
 
-💻 [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
+* [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
 
-💻 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+* [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
-💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
+* [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
 
-💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
+* [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
 
-💻 [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
+* [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
 
-💻 [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
+* [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
 
-💻 [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
+* [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
 
-💻 [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
+* [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
 
-💻 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
+* [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
 
-💻 [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
+* [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
 
-💻 [Blankly](https://github.com/KravitzMC/blankly) - Trade stocks, cryptos, and forex across exchanges w/ one package.
+* [Blankly](https://github.com/KravitzMC/blankly) - Trade stocks, cryptos, and forex across exchanges w/ one package.
 
-💻 [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
+* [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
 
-💻 [bTrader](https://github.com/gabriel-milan/btrader) - A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.
+* [bTrader](https://github.com/gabriel-milan/btrader) - A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.
 
-💻 [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
+* [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
 
-💻 [Crypto_Hedge_scalping](https://github.com/nikita-doronin/crypto_hedge_scalping_bot) - This is a crypto Hedge Scalping bot for Binance, including both backtest and live trading bot.
+* [Crypto_Hedge_scalping](https://github.com/nikita-doronin/crypto_hedge_scalping_bot) - This is a crypto Hedge Scalping bot for Binance, including both backtest and live trading bot.
 
-💻 [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.
+* [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.
 
-💻 [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
+* [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
 
-💻 [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
+* [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
 
-💻 [Dio](https://github.com/malciller/dio) - Trading engine for Kraken. Uses WebSocket and REST to run automated strategies with a terminal dashboard and optional Discord notifications.
+* [Dio](https://github.com/malciller/dio) - Trading engine for Kraken. Uses WebSocket and REST to run automated strategies with a terminal dashboard and optional Discord notifications.
 
-💻 [FiBocci](https://github.com/alanwatts07/FiBocci) - fibonacci smoothed moving averages on SOL/USDC.
+* [FiBocci](https://github.com/alanwatts07/FiBocci) - fibonacci smoothed moving averages on SOL/USDC.
 
-💻 [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
+* [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
 
-💻 [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange
+* [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange
 
-💻 [Grid Trading Bot](https://github.com/jordantete/grid_trading_bot) - Grid trading strategies using historical data for backtesting
+* [Grid Trading Bot](https://github.com/jordantete/grid_trading_bot) - Grid trading strategies using historical data for backtesting
 
-💻 [gekko](https://github.com/askmike/gekko) - DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
+* [gekko](https://github.com/askmike/gekko) - DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
 
-💻 [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
+* [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
 
-💻 [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
+* [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
 
-💻 [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
+* [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
 
-💻 [Kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
+* [Kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
 
-💻 [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
+* [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
 
-💻 [PingPong](https://github.com/panifie/PingPong.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
+* [PingPong](https://github.com/panifie/PingPong.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
 
-💻 [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
+* [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
 
-💻 [Superalgos](https://github.com/Superalgos/Superalgos) - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
+* [Superalgos](https://github.com/Superalgos/Superalgos) - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
 
-💻 [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
+* [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
 
-💻 [wolfinch](https://github.com/ldmonko/wolfinch) - A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.
+* [wolfinch](https://github.com/ldmonko/wolfinch) - A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.
 
-💻 [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+* [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
-💻 [crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester) - Easy-to-use cryptocurrency trading strategy simulator and backtester
+* [crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester) - Easy-to-use cryptocurrency trading strategy simulator and backtester
+* [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 
-💻 [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
-
-💻 [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
+* [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 
 
 ## 🌏 API and data providers
 
-* [PumpPapi](https://pumpapi.io) - ⭐ Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, AMZN ,Nvidia, Walmart, and others) through one fast API.
+* [PumpPapi](https://pumpapi.io) - Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, AMZN ,Nvidia, Walmart, and others) through one fast API.
 * [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [CryptoExchange.NET](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange CEX API's.
@@ -147,7 +146,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🧠 AI/LLM
 
-* [Pumpapi.AI](https://pumpapi.ai/) - ⭐ AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
+* [Pumpapi.AI](https://pumpapi.ai/) - AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
 * [Pumps & Dump Predict](https://github.com/B0R0koko/pump-and-dump-prediction) - Mitigating Class Imbalance in Pump-and-Dump Detection.
 * [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) -  an open-source platform for quantitative trading empowered by reinforcement learning.
 * [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
@@ -267,7 +266,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > [!TIP]
 > Connect payment gateway providers for your merchant.
 
-* [Cryptomus](https://cryptomus.com) - ⭐ An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
+* [Cryptomus](https://cryptomus.com) -  An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.
 * [Coingate](https://coingate.com/) - Secure crypto payment gateway for business.
 * [Nowpayments](https://nowpayments.io/) - Accept 300+ cryptocurrencies with low fees easily.
@@ -278,7 +277,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 💳 Crypto Visa & MasterCard
 
 * [Bitget card](https://web3.bitget.com/th/card)  - DEX visa card (Recommend)
-* [MEXC card](https://www.mexc.com/buy-crypto/mexc-card) - 🔥 Up to 10% Cashback
+* [MEXC card](https://www.mexc.com/buy-crypto/mexc-card) - Up to 10% Cashback
 * [Bitunix card](https://www.bitunix.com/cards) - Up to 8% Cashback
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [Plasma One card](https://www.plasma.org/personal) - Up to 4% Cashback 
