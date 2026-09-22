@@ -6,7 +6,7 @@
 (This Repository Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)) </br></br>
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc.
 
- ## ☣️ Disclaimer Announcement
+ ## Disclaimer Announcement
 
 <h4><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage.  :warning:</p></h4>
 
