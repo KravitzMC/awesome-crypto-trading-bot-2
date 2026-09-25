@@ -276,7 +276,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 💳 Crypto Visa & MasterCard
 
-* [Bitget card](https://web3.bitget.com/th/card)  - DEX visa card (Recommend)
 * [MEXC card](https://www.mexc.com/buy-crypto/mexc-card) - Up to 10% Cashback
 * [Bitunix card](https://www.bitunix.com/cards) - Up to 8% Cashback
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
@@ -285,6 +284,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Ether-fi card](https://www.ether.fi/)
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 * [ByBit card](https://www.bybit.com/en/cards/)
+* [Bitget card](https://web3.bitget.com/th/card)  - DEX visa card
 * [OKX card](https://www.okx.com/pay)
 * [Cypher card ](https://cypherhq.io/)
 * [Cryto.com card](https://crypto.com/en/cards)
