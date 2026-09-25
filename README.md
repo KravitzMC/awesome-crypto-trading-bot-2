@@ -284,7 +284,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Ether-fi card](https://www.ether.fi/)
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 * [ByBit card](https://www.bybit.com/en/cards/)
-* [Bitget card](https://web3.bitget.com/th/card)  - DEX visa card
 * [OKX card](https://www.okx.com/pay)
 * [Cypher card ](https://cypherhq.io/)
 * [Cryto.com card](https://crypto.com/en/cards)
