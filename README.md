@@ -7,7 +7,7 @@
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc.
 
  ## Disclaimer Announcement
-
+ 
 <h4><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage.  :warning:</p></h4>
 
 > [!CAUTION]
@@ -237,7 +237,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
 * [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
 * [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
-* [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
+* [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 * [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
   
