@@ -181,7 +181,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [NTM.AI](https://ntm.ai)
 * [Padre Terminal](https://trade.padre.gg/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
-* [TrenchIndex](https://trenchindex.fun/)
 * [XXYY.IO](https://www.xxyy.io/)
 
 ## 📡 RPC Servers
