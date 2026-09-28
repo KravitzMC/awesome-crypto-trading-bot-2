@@ -209,6 +209,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🔰 Technical analysis libraries
 
 * [OpenAlgo](https://openalgo.in/) - Opensource Algo trading Platform.
+* [QuanTAlib](https://github.com/mihakralj/QuanTAlib/) - 447 validated technical indicators for C#, Python and PineScript
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
 * [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
