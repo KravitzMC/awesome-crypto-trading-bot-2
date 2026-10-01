@@ -208,6 +208,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🔰 Technical analysis libraries
 
 * [OpenAlgo](https://openalgo.in/) - Opensource Algo trading Platform.
+* [wickra-lib](https://github.com/wickra-lib/wickra) - Fast Streaming technical with 514 indicators
 * [QuanTAlib](https://github.com/mihakralj/QuanTAlib/) - 447 validated technical indicators for C#, Python and PineScript
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
 * [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
