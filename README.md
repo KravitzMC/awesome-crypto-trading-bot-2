@@ -144,6 +144,46 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 
+
+## 🔰 Technical analysis libraries
+
+* [OpenAlgo](https://openalgo.in/) - Opensource Algo trading Platform.
+* [wickra-lib](https://github.com/wickra-lib/wickra) - Fast Streaming technical with 514 indicators
+* [QuanTAlib](https://github.com/mihakralj/QuanTAlib/) - 447 validated technical indicators for C#, Python and PineScript
+* [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
+* [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
+* [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
+* [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
+* [ta-lib](https://github.com/mrjbq7/ta-lib) - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
+* [ta-rs](https://github.com/greyblake/ta-rs) -  Technical analysis library for Rust language.
+* [ta4j](https://github.com/ta4j/ta4j) - Ta4j is an open source Java library for technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
+* [TechAn](https://github.com/sdcoffey/techan) - TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.
+* [tulipindicators](https://github.com/TulipCharts/tulipindicators) - A technical analysis indicator function library in C.
+* [tulipnode](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators.
+* [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns.
+* [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.
+* [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
+
+
+## 🚀 Market data libraries
+
+* [python-kraken-sdk](https://github.com/btschwertfeger/python-kraken-sdk) - Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API).
+* [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
+* [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
+* [kucoin-ws](https://github.com/IOfate/kucoin-ws) - Node.js websocket client for KuCoin.
+* [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
+* [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API.
+* [bybit-api](https://github.com/tiagosiebler/bybit-api) - A complete, typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
+* [ccxws](https://github.com/altangent/ccxws) - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
+* [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
+* [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
+* [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
+* [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
+* [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX REST APIs and Websockets, available on npm, for the backend and the browser.
+* [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
+* [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
+
+
 ## 🧠 AI/LLM
 
 * [Pumpapi.AI](https://pumpapi.ai/) - AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
@@ -204,45 +244,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
 * [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
 
-
-## 🔰 Technical analysis libraries
-
-* [OpenAlgo](https://openalgo.in/) - Opensource Algo trading Platform.
-* [wickra-lib](https://github.com/wickra-lib/wickra) - Fast Streaming technical with 514 indicators
-* [QuanTAlib](https://github.com/mihakralj/QuanTAlib/) - 447 validated technical indicators for C#, Python and PineScript
-* [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
-* [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
-* [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
-* [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
-* [ta-lib](https://github.com/mrjbq7/ta-lib) - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
-* [ta-rs](https://github.com/greyblake/ta-rs) -  Technical analysis library for Rust language.
-* [ta4j](https://github.com/ta4j/ta4j) - Ta4j is an open source Java library for technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
-* [TechAn](https://github.com/sdcoffey/techan) - TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.
-* [tulipindicators](https://github.com/TulipCharts/tulipindicators) - A technical analysis indicator function library in C.
-* [tulipnode](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators.
-* [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns.
-* [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.
-* [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
-
-
-## 🚀 Market data libraries
-
-* [python-kraken-sdk](https://github.com/btschwertfeger/python-kraken-sdk) - Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API).
-* [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
-* [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
-* [kucoin-ws](https://github.com/IOfate/kucoin-ws) - Node.js websocket client for KuCoin.
-* [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
-* [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API.
-* [bybit-api](https://github.com/tiagosiebler/bybit-api) - A complete, typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
-* [ccxws](https://github.com/altangent/ccxws) - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
-* [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
-* [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
-* [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
-* [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
-* [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX REST APIs and Websockets, available on npm, for the backend and the browser.
-* [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
-* [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
-  
 ## 📈 Charting libraries
 
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
