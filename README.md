@@ -280,6 +280,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 💳 Crypto Visa & MasterCard
 
 * [Bitunix card](https://www.bitunix.com/cards) - Up to 8% Cashback
+* [Bitget card](https://web3.bitget.com/card)
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [TokenPocket card](https://card.tokenpocket.pro/)
 * [MEXC card](https://www.mexc.com/buy-crypto/mexc-card) - Up to 10% Cashback
