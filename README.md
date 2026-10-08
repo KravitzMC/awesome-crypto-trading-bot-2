@@ -140,6 +140,10 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 
+## 🧱 Blockchain SDK
+
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
+* [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
 
 ## 🎲 Decentralized Exchange (DEX) Tracker
 
@@ -184,13 +188,10 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [GetBlock](https://getblock.io/)
 * [Ankr](https://www.ankr.com/rpc/)
 
-## 🧱 Blockchain SDK
-
-* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
-* [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
 
 ## 📈 Charting libraries
 
+* [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) - This is a tool to scrape everything on tradingview.
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
 * [TradingVue.js](https://github.com/tvjsx/trading-vue-js) - Hackable charting library for traders built for vue.js applications.
