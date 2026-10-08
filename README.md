@@ -138,6 +138,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
+* [HostDeFi](https://hostdefi.com/docs/api/) - Keyless token risk-scanner API (A+–F verdicts) across Solana + 7 EVM chains. Free tier.
 
 ## 🧱 Blockchain SDK
 
