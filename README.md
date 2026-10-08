@@ -191,7 +191,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 📈 Charting libraries
 
-* [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) - This is a tool to scrape everything on tradingview.
+* [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) - Scrape everything on tradingview with python.
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
 * [TradingVue.js](https://github.com/tvjsx/trading-vue-js) - Hackable charting library for traders built for vue.js applications.
