@@ -133,7 +133,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [Dune](https://dune.com) 
 * [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
-* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
 * [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
@@ -191,6 +190,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 📈 Charting libraries
 
+* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) - Scrape everything on tradingview with python.
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
