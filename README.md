@@ -117,8 +117,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🧠 AI/LLM
 
 * [Pumpapi.AI](https://pumpapi.ai/) - AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
-* [Pumps & Dump Predict](https://github.com/B0R0koko/pump-and-dump-prediction) - Mitigating Class Imbalance in Pump-and-Dump Detection.
 * [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) -  an open-source platform for quantitative trading empowered by reinforcement learning.
+* [Pumps & Dump Predict](https://github.com/B0R0koko/pump-and-dump-prediction) - Mitigating Class Imbalance in Pump-and-Dump Detection.
 * [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
@@ -174,12 +174,12 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 📡 RPC Servers
 
-* [Helius](https://www.helius.dev) - (recommend)
+* [Helius](https://www.helius.dev) - (Recommend)
 * [LeoRPC](https://leorpc.com/pricing) - Free unlimited CU with 3 requests/second
 * [QuickNode](https://www.quicknode.com/)
 * [Chainstack](https://chainstack.com/)
 * [FluxRPC](https://fluxrpc.com/)
-* [Zan](https://zan.top/) - (looking good for asia)
+* [Zan](https://zan.top/) 
 * [dRPC](https://drpc.org/) 
 * [Solana Public Node](https://api.mainnet-beta.solana.com) - (free use but unstable)
 * [OrbitFlare](https://orbitflare.com/)  
