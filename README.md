@@ -52,98 +52,43 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 👨‍💻 Open source bots
 
 * [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
-
 * [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
-
 * [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
-
 * [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
-
 * [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
-
 * [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
-
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
-
 * [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
-
 * [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
-
 * [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
-
 * [Blankly](https://github.com/KravitzMC/blankly) - Trade stocks, cryptos, and forex across exchanges w/ one package.
-
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
-
 * [bTrader](https://github.com/gabriel-milan/btrader) - A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.
-
 * [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
-
 * [Crypto_Hedge_scalping](https://github.com/nikita-doronin/crypto_hedge_scalping_bot) - This is a crypto Hedge Scalping bot for Binance, including both backtest and live trading bot.
-
 * [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.
-
 * [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
-
 * [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
-
 * [Dio](https://github.com/malciller/dio) - Trading engine for Kraken. Uses WebSocket and REST to run automated strategies with a terminal dashboard and optional Discord notifications.
-
 * [FiBocci](https://github.com/alanwatts07/FiBocci) - fibonacci smoothed moving averages on SOL/USDC.
-
 * [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
-
 * [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange
-
 * [Grid Trading Bot](https://github.com/jordantete/grid_trading_bot) - Grid trading strategies using historical data for backtesting
-
 * [gekko](https://github.com/askmike/gekko) - DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
-
 * [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
-
 * [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
-
 * [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
-
 * [Kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
-
 * [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
-
 * [PingPong](https://github.com/panifie/PingPong.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
-
 * [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
-
 * [Superalgos](https://github.com/Superalgos/Superalgos) - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
-
 * [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
-
 * [wolfinch](https://github.com/ldmonko/wolfinch) - A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.
-
 * [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-
 * [crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester) - Easy-to-use cryptocurrency trading strategy simulator and backtester
 * [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
-
 * [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
-
-
-## 🌏 API and data providers
-
-* [PumpPapi](https://pumpapi.io) - Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, AMZN ,Nvidia, Walmart, and others) through one fast API.
-* [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
-* [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
-* [CryptoExchange.NET](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange CEX API's.
-* [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
-* [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
-* [Dune](https://dune.com) 
-* [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
-* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
-* [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
-* [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
-* [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
-* [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
-* [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
-
 
 ## 🔰 Technical analysis libraries
 
@@ -156,22 +101,18 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🚀 Market data libraries
 
+* [PumpPapi](https://pumpapi.io) - Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, AMZN ,Nvidia, Walmart, and others) through one fast API.
+* [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
+* [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
+* [CryptoExchange.NET](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange CEX API's.
 * [python-kraken-sdk](https://github.com/btschwertfeger/python-kraken-sdk) - Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API).
-* [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
-* [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
-* [kucoin-ws](https://github.com/IOfate/kucoin-ws) - Node.js websocket client for KuCoin.
 * [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
-* [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API.
 * [bybit-api](https://github.com/tiagosiebler/bybit-api) - A complete, typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
-* [ccxws](https://github.com/altangent/ccxws) - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
 * [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
-* [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
-* [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
 * [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
 * [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 * [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
-
 
 ## 🧠 AI/LLM
 
@@ -185,6 +126,20 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
 * [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices/blob/main/forecasting-btc-arima-xgboost-prophet-lstm.ipynb) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
 * [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
+
+## 🌏 API and data providers
+
+* [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
+* [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [Dune](https://dune.com) 
+* [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
+* [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
+* [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
+* [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
+* [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
+* [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
+* [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
+
 
 ## 🎲 Decentralized Exchange (DEX) Tracker
 
