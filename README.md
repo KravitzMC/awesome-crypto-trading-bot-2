@@ -105,6 +105,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [CryptoExchange.NET](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange CEX API's.
+* [Solnet](https://github.com/bmresearch/Solnet) - Solana's C# SDK designed to integrate seamlessly with the .NET ecosystem for web, mobile, and desktop apps. 
 * [python-kraken-sdk](https://github.com/btschwertfeger/python-kraken-sdk) - Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API).
 * [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
 * [bybit-api](https://github.com/tiagosiebler/bybit-api) - A complete, typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
