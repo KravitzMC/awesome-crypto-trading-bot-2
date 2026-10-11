@@ -153,6 +153,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [DexScreener](https://dexscreener.com/)
 * [DexTools](https://www.dextools.io)
 * [Trojan](https://trojan.com/)
+* [Telemetry](https://app.telemetry.io)
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
 * [Stonkfun](https://www.stonkfun.xyz/)
