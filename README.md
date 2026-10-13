@@ -162,7 +162,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Shotgun.fun](https://shotgun.fun/)
 * [GeckoTerminal](https://www.geckoterminal.com/)
 * [MevX](https://mevx.io/)
-* [NTM.AI](https://ntm.ai)
 * [Padre Terminal](https://trade.padre.gg/)
 * [PhotonSOL](https://photon-sol.tinyastro.io)
 * [XXYY.IO](https://www.xxyy.io/)
