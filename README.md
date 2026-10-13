@@ -27,7 +27,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🏠 Contents
 
 * [Closed source bots](#closed-source-bots)
-* [Open source bots](#%E2%80%8D-open-source-bots)
 * [Technical analysis libraries](#-technical-analysis-libraries)
 * [AI/LLM](#-aillm)
 * [Market data libraries](#-market-data-libraries)
@@ -42,11 +41,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [RPC Servers](#rpc-servers)
 * [Community](#-community)
 
-
-## 🔐 Closed source bots
-
-* [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
-* [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
 
 ## 👨‍💻 Open source bots
 
