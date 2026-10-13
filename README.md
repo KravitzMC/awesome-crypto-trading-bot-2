@@ -156,6 +156,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Telemetry](https://app.telemetry.io)
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
+* [FOMO](https://fomo.family)
 * [Stonkfun](https://www.stonkfun.xyz/)
 * [Azura](https://app.azura.xyz/)
 * [Bullx](https://neo.bullx.io/)
