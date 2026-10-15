@@ -139,7 +139,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
 * [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
 
-## 🎲 Decentralized Exchange (DEX) Tracker
+## 🎲 Decentralized Exchange (High Risk)
 
 > [!WARNING]
 > Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls, honeypot and other scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 3 minutes, use only a small amount of money 10-20% RR 1:1 per trade , and never let greed blind your judgment.
