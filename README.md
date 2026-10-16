@@ -9,8 +9,6 @@ This project uses an original work released under the CC0 1.0 Universal
 - **Source:** [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 - **License:** CC0 1.0 Universal
 
-Awesome list about crypto trading bots and other.
-
  ## Disclaimer Announcement
  
 <h4><p align="left">:warning: Only education perpose use bots at your own risk. :warning:</p></h4>
