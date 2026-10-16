@@ -3,7 +3,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
 # Awesome Crypto Trading Bots 2 </br>
 
-(This Repository Fork and modify from orignal : [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)) </br></br>
+This project uses an original work released under the
+[CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
+
+- **Original Author:** [Author Name]
+- **Source:** [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
+- **License:** CC0 1.0 Universal
+
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc.
 
  ## Disclaimer Announcement
