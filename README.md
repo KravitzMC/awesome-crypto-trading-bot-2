@@ -56,9 +56,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
 * [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
-* [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
 * [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
-* [Blankly](https://github.com/KravitzMC/blankly) - Trade stocks, cryptos, and forex across exchanges w/ one package.
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
 * [bTrader](https://github.com/gabriel-milan/btrader) - A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.
 * [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
@@ -71,7 +69,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
 * [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange
 * [Grid Trading Bot](https://github.com/jordantete/grid_trading_bot) - Grid trading strategies using historical data for backtesting
-* [gekko](https://github.com/askmike/gekko) - DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
 * [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
 * [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
 * [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
