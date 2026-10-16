@@ -60,7 +60,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
 * [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
-* [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
 * [FiBocci](https://github.com/alanwatts07/FiBocci) - fibonacci smoothed moving averages on SOL/USDC.
 * [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
 * [Grid Trading Bot](https://github.com/jordantete/grid_trading_bot) - Grid trading strategies using historical data for backtesting
