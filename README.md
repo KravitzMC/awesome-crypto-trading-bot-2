@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
 
 # Awesome Crypto Trading Bots 2 </br>
-> [!NOTE]
+
 > This project uses an original work released under the CC0 1.0 Universal
 > - **Original Author:** botcrypto-io
 > - **Source:** [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
