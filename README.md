@@ -4,7 +4,7 @@
 
 # Awesome Crypto Trading Bots 2 </br>
 
-> This repo contains original and modified work based on content released under the CC0 1.0 Universal license.
+> This repo contains original and modified work based under the CC0 1.0 Universal license.
 > - **Original Author:** botcrypto-io
 > - **Source:** [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 > - **License:** CC0 1.0 Universal
