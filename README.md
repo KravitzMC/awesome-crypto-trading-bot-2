@@ -48,7 +48,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 👨‍💻 Open source bots
 
 * [Zeroslip.AI](https://zeroslip.ai/) - Build low-latency On-Chain swap Solana bot faster than ShredStream. 100% free.
-* [Pumpapi.AI](https://pumpapi.ai/) - AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
 * [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
 * [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 * [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, et
@@ -115,6 +114,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🧠 AI/LLM
 
+* [Pumpapi.AI](https://pumpapi.ai/) - AI Agent for you want, and it backtests your strategies, builds trading bots, websites, apps, or whatever else you dream up.
 * [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) -  an open-source platform for quantitative trading empowered by reinforcement learning.
 * [Pumps & Dump Predict](https://github.com/B0R0koko/pump-and-dump-prediction) - Mitigating Class Imbalance in Pump-and-Dump Detection.
 * [QuantAgent](https://github.com/y-research-sbu/QuantAgent) -  Price-Driven Multi-Agent LLMs for High-Frequency Trading.
