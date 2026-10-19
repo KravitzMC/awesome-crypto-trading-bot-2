@@ -109,6 +109,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 * [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) - Scrape everything on tradingview with python.
 * [Dune](https://dune.com) 
 * [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
@@ -170,7 +171,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 📈 Charting libraries
 
 * [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
-* [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) - Scrape everything on tradingview with python.
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
 * [TradingVue.js](https://github.com/tvjsx/trading-vue-js) - Hackable charting library for traders built for vue.js applications.
