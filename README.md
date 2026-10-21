@@ -9,6 +9,8 @@
 > - **Source:** [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 > - **License:** CC0 1.0 Universal
 
+[![zeroslip](https://github.com/KravitzMC/awesome-crypto-trading-bot-2/blob/main/banner01.png)](https://zeroslip.ai/)
+
  ## Disclaimer Announcement
  
 <h4><p align="left">:warning: Only education perpose use bots at your own risk. :warning:</p></h4>
