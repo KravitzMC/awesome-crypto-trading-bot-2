@@ -9,8 +9,6 @@
 > - **Source:** [botcrypto-io](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 > - **License:** CC0 1.0 Universal
 
-[![zeroslip](https://github.com/KravitzMC/awesome-crypto-trading-bot-2/blob/main/banner01.png)](https://zeroslip.ai/)
-
  ## Disclaimer Announcement
  
 <h4><p align="left">:warning: Only education perpose use bots at your own risk. :warning:</p></h4>
@@ -30,6 +28,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > The author shall not be responsible for any losses resulting from scams, exploits, malicious contracts, market manipulation, front-running, sandwich attacks, or rug pull events. Users are strongly encouraged to verify contract addresses, review token permissions, analyze liquidity conditions, and use extreme caution when trading newly launched or unverified tokens.
 > </br></br>
 > No Development Affiliation or Endorsement: The author is not the original developer or creator of any third-party scripts or advertising banners displayed or promoted through this project. The author acts solely as an advertiser and does not claim ownership of such content. Displaying or promoting any script or banner does not constitute an endorsement or guarantee of its quality, legitimacy, or performance. The author assumes no responsibility for the functionality, reliability, or any losses arising from the use of or interaction with such third-party content.
+
+[![zeroslip](https://github.com/KravitzMC/awesome-crypto-trading-bot-2/blob/main/banner01.png)](https://zeroslip.ai/)
 
 ## 🏠 Contents
 
