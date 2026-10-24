@@ -198,8 +198,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > [!TIP]
 > Connect payment gateway providers for your merchant.
 
-* [Cryptomus](https://cryptomus.com) -  An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.
+* [Cryptomus](https://cryptomus.com) -  An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Coingate](https://coingate.com/) - Secure crypto payment gateway for business.
 * [Nowpayments](https://nowpayments.io/) - Accept 300+ cryptocurrencies with low fees easily.
 * [CoinPayments](https://www.coinpayments.net/) - A veteran in the space.
