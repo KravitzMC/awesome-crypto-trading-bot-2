@@ -29,7 +29,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🏠 Contents
 
-* [Closed source bots](#closed-source-bots)
+* [Open source bots](#open-source-bots)
 * [Technical analysis libraries](#-technical-analysis-libraries)
 * [AI/LLM](#-aillm)
 * [Market data libraries](#-market-data-libraries)
@@ -108,9 +108,9 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🌏 API and data providers
 
 * [Exchangerate.Fun](https://exchangerate.fun/) - Free Exchange Rate API.
-* [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [Bitquery](https://bitquery.io/) - Blockchain and DEX for query data APIs.
 * [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) - Scrape everything on tradingview with python.
-* [Dune](https://dune.com) 
+* [Dune](https://dune.com) - Structured blockchain data across the asset classes that move institutional capital.
 * [DIA](https://www.diadata.org/) - Free API for quote crypto price any asset.  
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
@@ -174,7 +174,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [PyneSys](https://pynesys.io/) - Convert Pine Script tradingview to Python wihthout AI/LLM
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
-* [TradingVue.js](https://github.com/tvjsx/trading-vue-js) - Hackable charting library for traders built for vue.js applications.
 * [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
 * [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
 * [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
