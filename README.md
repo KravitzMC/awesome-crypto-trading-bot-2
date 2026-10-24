@@ -135,6 +135,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [DexTools](https://www.dextools.io)
 * [Trojan](https://trojan.com/)
 * [Telemetry](https://app.telemetry.io)
+* [Trenchers.AI](https://trenchers.ai)
 * [AVE.AI](https://ave.ai/)
 * [AXIOM](https://axiom.trade/)
 * [FOMO](https://fomo.family)
