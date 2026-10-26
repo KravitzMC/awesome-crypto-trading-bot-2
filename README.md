@@ -207,6 +207,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 * [Bitunix card](https://www.bitunix.com/cards)
 * [Bitget card](https://web3.bitget.com/card)
+* [Coinbase One](https://www.coinbase.com/th/creditcard)
+* [Gemini card](https://www.gemini.com/credit-card)
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [TokenPocket card](https://card.tokenpocket.pro/)
 * [MEXC card](https://www.mexc.com/buy-crypto/mexc-card)
