@@ -129,6 +129,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 > Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls, honeypot and other scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 3 minutes and never let greed blind your judgment.
 
 * [BubbleMaps](https://bubblemaps.io/)
+* [BirdEye](https://birdeye.so)
 * [DexScreener](https://dexscreener.com/)
 * [DexTools](https://www.dextools.io)
 * [Trojan](https://trojan.com/)
@@ -140,7 +141,6 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Stonkfun](https://www.stonkfun.xyz/)
 * [Azura](https://app.azura.xyz/)
 * [Bullx](https://neo.bullx.io/)
-* [BirdEye](https://birdeye.so)
 * [DexView](https://dexview.com)
 * [GMGN.AI](https://gmgn.ai/)
 * [HyperLiquid](https://app.hyperliquid.xyz/)
