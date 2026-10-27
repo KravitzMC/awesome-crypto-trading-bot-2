@@ -122,6 +122,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
 * [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
+* [Union](https://github.com/unionlabs/union) - Dsigned for censorship resistance, extremely high security, and usage in decentralized finance.
 
 ## 🎲 Decentralized Exchange (Hight Dangerous)
 
