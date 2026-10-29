@@ -209,6 +209,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Bitunix card](https://www.bitunix.com/cards)
 * [Bitget card](https://web3.bitget.com/card)
 * [Coinbase One](https://www.coinbase.com/th/creditcard)
+* [Cypher card ](https://cypherhq.io/)
+* [Cryto.com card](https://crypto.com/en/cards)
 * [Gemini card](https://www.gemini.com/credit-card)
 * [Tevau card](https://tevau.io/) -   [[video example](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
 * [TokenPocket card](https://card.tokenpocket.pro/)
@@ -219,6 +221,5 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 * [ByBit card](https://www.bybit.com/en/cards/)
 * [OKX card](https://www.okx.com/pay)
-* [Cypher card ](https://cypherhq.io/)
-* [Cryto.com card](https://crypto.com/en/cards)
+* [WORPT card](https://www.worpt.com/card)
 * [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards)
