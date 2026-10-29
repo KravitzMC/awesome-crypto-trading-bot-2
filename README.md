@@ -221,5 +221,5 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Pionex card](https://www.pionex.com/en/card/introduction-common)
 * [ByBit card](https://www.bybit.com/en/cards/)
 * [OKX card](https://www.okx.com/pay)
-* [WORPT card](https://www.worpt.com/card)
+* [WORPT card](https://www.worpt.com)
 * [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards)
