@@ -124,7 +124,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
 * [Union](https://github.com/unionlabs/union) - Dsigned for censorship resistance, extremely high security, and usage in decentralized finance.
 
-## 🎲 Decentralized Exchange (Hight Dangerous)
+## 💀 Decentralized Exchange (Hight Dangerous)
 
 > [!WARNING]
 > Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls, honeypot and other scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 3 minutes and never let greed blind your judgment.
@@ -180,7 +180,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🧽 Miscellaneous tools
 
 * [Dryflip](https://dryflip.com/) - Memecoin paper trading simulator.
-* [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer !!
+* [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer 💀 !!
 * [AL THE BOT FATHER](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - Example all about repositories derive and parse the On-chain data.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
@@ -211,4 +211,4 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [Ether-fi card](https://www.ether.fi/)
 * [WORPT card](https://www.worpt.com)
-* [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards) - Use as your own risk from scam card!! .
+* [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards) - Use as your own risk from scam card!! 💀.
