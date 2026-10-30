@@ -124,7 +124,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
 * [Union](https://github.com/unionlabs/union) - Dsigned for censorship resistance, extremely high security, and usage in decentralized finance.
 
-## 💀 Decentralized Exchange (Hight Dangerous)
+## 💀 Decentralized Exchange (Extreme Dangerous)
 
 > [!WARNING]
 > Most memecoins on DEXs over 99% are extremely dangerous from Rug pulls, honeypot and other scams , and your investment can go from million to zero in an instant. Trade at your own risk and don't long hold over 3 minutes and never let greed blind your judgment.
