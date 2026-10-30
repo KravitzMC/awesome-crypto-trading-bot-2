@@ -180,7 +180,7 @@ The author assumes no responsibility for misuse or unintended results. By using 
 ## 🧽 Miscellaneous tools
 
 * [Dryflip](https://dryflip.com/) - Memecoin paper trading simulator.
-* [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer 💀 !!
+* [Best Exchange](https://www.bestchange.com/) - Use as your own risk from P2P scammer !!
 * [AL THE BOT FATHER](https://github.com/AL-THE-BOT-FATHER?tab=repositories) - Example all about repositories derive and parse the On-chain data.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
