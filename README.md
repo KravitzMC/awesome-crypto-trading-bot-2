@@ -207,13 +207,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [Coinbase One](https://www.coinbase.com/th/creditcard)
 * [Cypher card ](https://cypherhq.io/)
 * [Cryto.com card](https://crypto.com/en/cards)
-* [Gemini card](https://www.gemini.com/credit-card)
 * [Plasma One card](https://www.plasma.org/personal)
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [Ether-fi card](https://www.ether.fi/)
-* [TokenPocket card](https://card.tokenpocket.pro/)
 * [WORPT card](https://www.worpt.com)
-* [Bitunix card](https://www.bitunix.com/cards)
-* [Bitget card](https://web3.bitget.com/card)
-* [MEXC card](https://www.mexc.com/buy-crypto/mexc-card)
-* [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards)
+* [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards) - Use as your own risk.
