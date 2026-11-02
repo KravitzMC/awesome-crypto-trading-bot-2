@@ -11,7 +11,7 @@
 
 ## Disclaimer Announcement
  
-<h4><p align="left">:warning: Only education perpose use bots at your own risk. :warning:</p></h4>
+<h4><p align="left">:warning: Only education researcher perpose use bots at your own risk. :warning:</p></h4>
 
 > [!CAUTION]
 > No warranties, express or implied, are provided with this script. This script is supplied “as is” without any guarantee of accuracy or reliability. The author makes no representation that the script is error-free or defect-free. No warranty is given regarding fitness for any particular purpose.
@@ -211,4 +211,4 @@ The author assumes no responsibility for misuse or unintended results. By using 
 * [WeFi card](https://www.wefi.co/) -   [[video example](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [Ether-fi card](https://www.ether.fi/)
 * [WORPT card](https://www.worpt.com)
-* [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards) - Use as your own risk 💀.
+* [➡️ Awesome Crypto Cards](https://github.com/mbtrilla/awesome-crypto-cards) - Use as your own risk from some scammer 💀.
