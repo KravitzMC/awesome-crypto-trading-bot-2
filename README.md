@@ -11,7 +11,7 @@
 
 ## Disclaimer Announcement
  
-<h4><p align="left">:warning: only for education researcher perpose use bots at your own risk. :warning:</p></h4>
+<h4><p align="left">:warning: Only for education scholar researcher perpose use bots at your own risk. :warning:</p></h4>
 
 > [!CAUTION]
 > No warranties, express or implied, are provided with this script. This script is supplied “as is” without any guarantee of accuracy or reliability. The author makes no representation that the script is error-free or defect-free. No warranty is given regarding fitness for any particular purpose.
