@@ -77,8 +77,8 @@ The author assumes no responsibility for misuse or unintended results. By using 
 
 ## 🚀 Market data libraries
 
+* [PumpPapi](https://pumpapi.io) - Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks data (Tesla, Microsoft, Google, AMZN ,Nvidia, Walmart, and others) through one fast API.
 * [Zeroslip.AI](https://zeroslip.ai/) - Build low-latency On-Chain swap Solana bot faster than ShredStream. 100% free.
-* [PumpPapi](https://pumpapi.io) - Build low-latency On-Chain swap Solana bot that trade tokens and stream real-time data across Pump.fun, PumpSwap, Raydium, and Meteora DLMM stocks (Tesla, Microsoft, Google, AMZN ,Nvidia, Walmart, and others) through one fast API.
 * [PumpDev](https://pumpdev.io/) - Trade, launch, and snipe on Pump.fun with one API call. REST + WebSocket. Jito bundles. Lowest fees.
 * [PumpPortal.Fun](https://pumpportal.fun/) - A 3rd-Party API for Pump.fun, Raydium, and other DEXs.
 * [CryptoExchange.NET](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange CEX API's.
